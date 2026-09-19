@@ -2,9 +2,9 @@
 
 A SQL-led data analysis project on the Kaggle Superstore dataset — loaded into a relational SQLite database, analyzed with analyst-grade SQL (CTEs, window functions, joins), and visualized in both Power BI and a live Streamlit dashboard.
 
-🔗 **Live demo:** https://superstore-retail-store-performance-kmxkoa5ia6x6maxcmhihev.streamlit.app/
+**[🚀 Live Streamlit Dashboard](https://superstore-retail-store-performance-kmxkoa5ia6x6maxcmhihev.streamlit.app/)**
 
-📊 **Power BI file:** [related csv + .pbix](https://drive.google.com/drive/folders/1DPe9rFSritmr2KMD36etx6-dL8lXKgdh?usp=sharing)
+**[📈 Power BI Report (related csv and .pbix in Drive)](https://drive.google.com/drive/folders/1DPe9rFSritmr2KMD36etx6-dL8lXKgdh?usp=sharing)**
 
 ## Overview
 
